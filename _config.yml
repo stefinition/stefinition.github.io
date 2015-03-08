@@ -1,16 +1,16 @@
 # Title of your blog; shows in the header
-name: "hikari"
+name: "stefinition"
 
 # Description of your content (will only be used on Google Search)
 description: "Fluid, responsive blog theme for Jekyll"
 
-# Your name. Will show in your footer + sidebar 
-author: "John Doge"
+# Your name. Will show in your footer + sidebar
+author: "Stephanie Lim Saaby Nielsen"
 
-url: "http://m3xm.github.io"
-baseurl: "/hikari-for-Jekyll"
+url: "http://stefinition.github.io"
+baseurl: "/stefinition.github.io"
 
-# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "I'm a dog. I develop things. This is my blog so why don't you close this damn side panel (cursed by most UX Designers but I don't care, I do whatever I want) and start reading my awesome stuff?"
 
 # Social Accounts (mine, as placeholders)
